@@ -11,8 +11,7 @@ public int countdownTime = 10;
   int speedCounter = 0;
   Transform player;
 
-
-
+//--------------------------------This class is responsible for the AI movement towards the player---------------------------------
   void Start()
 {
 //  StartCoroutine(counttoSpeed());
