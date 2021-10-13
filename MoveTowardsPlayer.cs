@@ -27,7 +27,7 @@ public int countdownTime = 10;
         // Find the players ship
         {
           GameObject go = GameObject.Find("PlayerShip(Clone)");
-
+        //
 
         if (go != null)
         player = go.transform;
